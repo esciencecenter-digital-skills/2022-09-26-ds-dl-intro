@@ -101,3 +101,4 @@ and styling them according to the instructions given in
 [lc-site]: https://librarycarpentry.org
 [ds-site]: https://esciencecenter-digital-skills.github.io/
 [setup-instructions]: https://carpentries.github.io/lesson-example/setup.html#jekyll-setup-for-lesson-development
+
